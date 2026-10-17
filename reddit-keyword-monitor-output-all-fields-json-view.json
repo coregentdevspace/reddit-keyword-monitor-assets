@@ -1,0 +1,2542 @@
+[{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_ph5hq3e",
+  "postId": "1x7bmel",
+  "commentId": "ph5hq3e",
+  "parentId": "t1_ph5e0hx",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "my immediate future is peace of mind not thinking about externalities, like literally at all. claude had outage, its main driver at work. no caching concerns, no hidden lower quant routing at peak hours, im not seeing dollar signs per attempt to make code happen.\nwill i feel bad if dgx spark is 1k in 2 years? lmfao good luck with that i hope you're right but i think im just fine now.\nif i can get rid of my 200$ plans per month, lets see, thats 10_000 / 400 = 25 ~ 2 years lol so it sounds like i break even",
+  "textAvailable": true,
+  "author": {
+    "username": "probably-a-name",
+    "profileUrl": "https://www.reddit.com/user/probably-a-name/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/ph5hq3e/",
+  "parentPost": {
+    "id": "t3_1x7bmel",
+    "title": "The actual state of open-weight models vs. frontier models",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/",
+    "author": null
+  },
+  "publishedAt": "2026-10-16T17:49:22.388Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 1
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_ph43p3s",
+  "postId": "1x4yoqm",
+  "commentId": "ph43p3s",
+  "parentId": "t1_pgoidli",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Why should i vibe n8n if i can download a docker image and how do i tell Stacy in admin that she has to use Claude Code with a local model?",
+  "textAvailable": true,
+  "author": {
+    "username": "q-admin007",
+    "profileUrl": "https://www.reddit.com/user/q-admin007/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company/ph43p3s/",
+  "parentPost": {
+    "id": "t3_1x4yoqm",
+    "title": "4x 6000 Pro for the company",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company/",
+    "author": null
+  },
+  "publishedAt": "2026-10-16T14:17:03.672Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 2
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgz15ry",
+  "postId": "1x6udga",
+  "commentId": "pgz15ry",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Install oMLX.\nInstall model Jundot/Qwen3.8-27B-oQ4e-mtp.\nGo to the model's settings and click \"apply optimal settings\". This brings a list of options, pick any of the top ones.\nAnother thing I do is restrict in the global settings max concurrent requests to 1. If I use more, the spawned agents in parallel will usually fight for the same resources and eventually time out actions because claude code will get tired of waiting, while running 1 at a time works perfectly fine for me 100% of time and have no issues with timeouts in claude code.\nTried it right now and it's running 35 t/s for me on M4 Pro 48gb. UPDATE: After running 35m in a task about reviewing the security of a python script it gave me an average of 25 t/s.\nCan't do much about the getting hot though, but maybe due to the 1 max concurrent job it's not hot all the time.",
+  "textAvailable": true,
+  "author": {
+    "username": "toomanyusb",
+    "profileUrl": "https://www.reddit.com/user/toomanyusb/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6udga/fastest_way_to_run_38_27b_on_macbook/pgz15ry/",
+  "parentPost": {
+    "id": "t3_1x6udga",
+    "title": "fastest way to run 3.8 27b on MacBook?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6udga/fastest_way_to_run_38_27b_on_macbook/",
+    "author": null
+  },
+  "publishedAt": "2026-10-15T20:20:30.216Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 3
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgxwyjq",
+  "postId": "1x6rjzz",
+  "commentId": "pgxwyjq",
+  "parentId": "t1_pgxw5a9",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "The agent uses the account via API. There aren’t many banks that offer APIs for that. And I use Briglia CLI as the harness. To make it work with hiw SGLang I had to adapt the server a bit, but that’s nothing Claude Code can’t do with the harness source code at hand.",
+  "textAvailable": true,
+  "author": {
+    "username": "Valuable-Run2129",
+    "profileUrl": "https://www.reddit.com/user/Valuable-Run2129/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6rjzz/who_else_gave_a_local_agent_the_full_control_of/pgxwyjq/",
+  "parentPost": {
+    "id": "t3_1x6rjzz",
+    "title": "Who else gave a local agent the full control of their checking account?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6rjzz/who_else_gave_a_local_agent_the_full_control_of/",
+    "author": null
+  },
+  "publishedAt": "2026-10-15T17:35:13.294Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 4
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgxh1tk",
+  "postId": "1x6o34h",
+  "commentId": "pgxh1tk",
+  "parentId": "t1_pgwy4qd",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Same, now all my commits are signed by Claude :/\nNeed to go through and remove that, as that’s all Claude did with the code I uploaded.",
+  "textAvailable": true,
+  "author": {
+    "username": "lumpyspacebreh",
+    "profileUrl": "https://www.reddit.com/user/lumpyspacebreh/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6o34h/whats_the_dumbest_thing_you_trust_your_llm_with/pgxh1tk/",
+  "parentPost": {
+    "id": "t3_1x6o34h",
+    "title": "What’s the dumbest thing you trust your LLM with, but not yourself?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6o34h/whats_the_dumbest_thing_you_trust_your_llm_with/",
+    "author": null
+  },
+  "publishedAt": "2026-10-15T16:30:33.163Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 5
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgxb0ju",
+  "postId": "1x6o34h",
+  "commentId": "pgxb0ju",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "as a researcher who runs dozens of experiments a week: naming files, folders, functions, etc. I'm fairly confident Claude code does a better job organizing my files than i ever did",
+  "textAvailable": true,
+  "author": {
+    "username": "SandyDaNoob",
+    "profileUrl": "https://www.reddit.com/user/SandyDaNoob/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6o34h/whats_the_dumbest_thing_you_trust_your_llm_with/pgxb0ju/",
+  "parentPost": {
+    "id": "t3_1x6o34h",
+    "title": "What’s the dumbest thing you trust your LLM with, but not yourself?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6o34h/whats_the_dumbest_thing_you_trust_your_llm_with/",
+    "author": null
+  },
+  "publishedAt": "2026-10-15T16:06:00.012Z",
+  "editedAt": null,
+  "score": 5,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 6
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgwlks4",
+  "postId": "1x50d7y",
+  "commentId": "pgwlks4",
+  "parentId": "t1_pgrtytt",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "My use case are software engineering / debug. If I need more juice for whatever reason I have some bucks on openrouter EU region with ZDR + RGPD.Otherwise I use it like my 100% claude code at home for personal or professionnal usage, since I'm freelancing and \"real data protection compliance licence\" are waaaay more expensive than standard claude sub.",
+  "textAvailable": true,
+  "author": {
+    "username": "No_Drag_5205",
+    "profileUrl": "https://www.reddit.com/user/No_Drag_5205/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x50d7y/should_i_try_moving_from_qwen_38_27b_q6_k_swift/pgwlks4/",
+  "parentPost": {
+    "id": "t3_1x50d7y",
+    "title": "Should i try moving from Qwen 3.8 27B Q6_K swift 1.5 to QFN Swift 1.5 IQ3_XXS GSQ RCO?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x50d7y/should_i_try_moving_from_qwen_38_27b_q6_k_swift/",
+    "author": null
+  },
+  "publishedAt": "2026-10-15T14:20:17.835Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 7
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgwfn4m",
+  "postId": "1x6jgtq",
+  "commentId": "pgwfn4m",
+  "parentId": "t1_pgw6s7c",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "I don't understand what you are saying but the tool template i plan to look into this weekend.\nI refuse to believe these large parameter models can't code like claude\nI will have to give the coder model another spin at some point as I found it was giving the same answers (but in json) as the base model so I deleted it.\nI do want to see if I can pull the hugging face template fixes first.\nBut you saying you can use python is interesting I thought it was go only",
+  "textAvailable": true,
+  "author": {
+    "username": "bigorangemachine",
+    "profileUrl": "https://www.reddit.com/user/bigorangemachine/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6jgtq/no_model_is_better_than_another_its_the_god_damn/pgwfn4m/",
+  "parentPost": {
+    "id": "t3_1x6jgtq",
+    "title": "No model is better than another its the god damn tools templates are broken & some tools need clean filenames",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6jgtq/no_model_is_better_than_another_its_the_god_damn/",
+    "author": null
+  },
+  "publishedAt": "2026-10-15T13:54:12.984Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 8
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgv84bt",
+  "postId": "1wz1pqn",
+  "commentId": "pgv84bt",
+  "parentId": "t1_pgqdpg2",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Claude Code Opus 5.5 ultracode ran an investigation for 14 hours straight overnight with 8 subagents, investigating the internet for the most likely date Qwen 4 will release.",
+  "textAvailable": true,
+  "author": {
+    "username": "Ambitious-Tie7231",
+    "profileUrl": "https://www.reddit.com/user/Ambitious-Tie7231/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz1pqn/qwen_4_apparently_coming_out_at_the_end_of_october/pgv84bt/",
+  "parentPost": {
+    "id": "t3_1wz1pqn",
+    "title": "Qwen 4 apparently coming out at the end of October",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz1pqn/qwen_4_apparently_coming_out_at_the_end_of_october/",
+    "author": null
+  },
+  "publishedAt": "2026-10-15T09:43:50.601Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 9
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgtqyi0",
+  "postId": "1x5t1tm",
+  "commentId": "pgtqyi0",
+  "parentId": "t1_pgqwlz1",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "People usually just look at benchmarks that are largely pushed up via hard RL environments.\nThey totally miss general world knowledge, or specific domain knowledge outside \"code\".\n\"CAn iT CalL TooLS?!\"\nWho cares if it puts trash in the tool call?\nQwen has good world knowledge for its size, but that's it.\nPeople say \"oh it's better than Claude 4.6\" ... No. Claude 4.6 murders it in raw world knowledge. Per parameter I'm sure Qwen is probably more performant (because Claude 4.6 is probably massive), but Claude 4.6 didn't undergo hard code and tool calling RL the way 4.8 did.\nAnd Claude 4.8 is miserable to talk to because of that RL.\nRL stopped being RLHF (human preference) and became pure RLVR or RLAI. They're optimized for winner take all, and don't care if they have to be a prick while doing it.",
+  "textAvailable": true,
+  "author": {
+    "username": "NineThreeTilNow",
+    "profileUrl": "https://www.reddit.com/user/NineThreeTilNow/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th/pgtqyi0/",
+  "parentPost": {
+    "id": "t3_1x5t1tm",
+    "title": "NVIDIA Nemotron Bolt 3.5 74B A9B releases Oct. 15th",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th/",
+    "author": null
+  },
+  "publishedAt": "2026-10-15T03:08:19.065Z",
+  "editedAt": null,
+  "score": 3,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 10
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgqn6fg",
+  "postId": "1x5uwnd",
+  "commentId": "pgqn6fg",
+  "parentId": "t1_pgqmvdo",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "ohh... my pc has 32gbram and 8gb vram and i want to use for agentic coding OR using as sub-agent for Claude code, i hope i can find a good model fitting my pc.",
+  "textAvailable": true,
+  "author": {
+    "username": "Either-Nobody-3962",
+    "profileUrl": "https://www.reddit.com/user/Either-Nobody-3962/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5uwnd/a_35b_multimodal_model_running_on_a_phone_with/pgqn6fg/",
+  "parentPost": {
+    "id": "t3_1x5uwnd",
+    "title": "A 35B multimodal model running on a phone with ~3GB memory? MiniCPM-V 4.7 demo is pretty wild",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5uwnd/a_35b_multimodal_model_running_on_a_phone_with/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T18:19:46.904Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 11
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgpbhtq",
+  "postId": "1x4u6vi",
+  "commentId": "pgpbhtq",
+  "parentId": "t1_pgp05xj",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Moving my long context box from qwen3.8 27b to FN cost me a lane. So when a project is in flight my local models are tied up and Claude fills the gap there. Claude code is also useful for running tests with local models. I ran 48 hours of tests before I moved from 27b to FN as my orchestrator and planner all run by opus. I just defined the test and went over the grading rubric opus developed for it then told it go. I have test project results from both and it was an easy choice after evaluation. Also Claude noticed the defaults in strata didn't match qwen FN recommended settings so we tested both ways and went with qwen recommended settings.",
+  "textAvailable": true,
+  "author": {
+    "username": "NeverRolledA20IRL",
+    "profileUrl": "https://www.reddit.com/user/NeverRolledA20IRL/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/pgpbhtq/",
+  "parentPost": {
+    "id": "t3_1x4u6vi",
+    "title": "It's been too quiet on the other side of the Pacific",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T15:05:27.823Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 12
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgovfdl",
+  "postId": "1x5pjv7",
+  "commentId": "pgovfdl",
+  "parentId": "t1_pgojr9s",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Honestly its the harness that makes it. We switched from using claude models at work to still using Claude Code with Fireworks which routes between GLM/Kimi/Deepseek and its working just as good for 10x cheaper. Id wager you could get good enough results with Qwen if you use Claude Code with it. I've only used OpenCode with it and agree its not there yet.",
+  "textAvailable": true,
+  "author": {
+    "username": "heliosythic",
+    "profileUrl": "https://www.reddit.com/user/heliosythic/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us/pgovfdl/",
+  "parentPost": {
+    "id": "t3_1x5pjv7",
+    "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T13:54:55.898Z",
+  "editedAt": null,
+  "score": 0,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 13
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgoidli",
+  "postId": "1x4yoqm",
+  "commentId": "pgoidli",
+  "parentId": "t1_pgngqc7",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "lol\nn8n is just dogshit, someone else nicely explained why in a different comment, but basically it's worse than just asking claude code to automate things for you. you can easily vibecode n8n if you really want to as well",
+  "textAvailable": true,
+  "author": {
+    "username": "ebolathrowawayy",
+    "profileUrl": "https://www.reddit.com/user/ebolathrowawayy/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company/pgoidli/",
+  "parentPost": {
+    "id": "t3_1x4yoqm",
+    "title": "4x 6000 Pro for the company",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T12:52:29.679Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 14
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgo9yvr",
+  "postId": "1x4ii8e",
+  "commentId": "pgo9yvr",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Why is no one pointing out that the Houthis are using Claude Code to build the guiding systems and attack Saudi Arabia. I bet you they’ll say “they used GLM under the hood!!”…sure, buddy. sure.https://www.reddit.com/r/Anthropic/s/1UUp1Nf4xz",
+  "textAvailable": true,
+  "author": {
+    "username": "Miserable-Dare5090",
+    "profileUrl": "https://www.reddit.com/user/Miserable-Dare5090/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/pgo9yvr/",
+  "parentPost": {
+    "id": "t3_1x4ii8e",
+    "title": "Anthropic is doing free publicity for GLM again",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T12:07:42.394Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 15
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgo3pwf",
+  "postId": "1wr7njr",
+  "commentId": "pgo3pwf",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "I’m the Emailops developer. The “Google hasn’t verified this app” screen you see is because the app is currently going through Google’s OAuth verification, which includes a third-party security audit. It takes a while, but hopefully it’ll be done in 1-2 weeks.\nI understand the concern. As you saw app is open source, so you can audit the code yourself, or even ask an AI like Claude to review it for you. Everything runs locally: your emails and credentials stay on your machine, and the only servers involved are your email provider’s.\nFeel free to DM if you have any questions",
+  "textAvailable": true,
+  "author": {
+    "username": "gerodp1984",
+    "profileUrl": "https://www.reddit.com/user/gerodp1984/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr7njr/mail_client_with_local_ai/pgo3pwf/",
+  "parentPost": {
+    "id": "t3_1wr7njr",
+    "title": "Mail client with local AI?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr7njr/mail_client_with_local_ai/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T11:30:24.727Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 16
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgo226j",
+  "postId": "1x5blg4",
+  "commentId": "pgo226j",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "worth counting the prompt floor too: a trivial two-turn headless commit message run in Claude Code still carried ~34k cache-read plus 6k cache-write tokens, so tiny tasks start near 40k.",
+  "textAvailable": true,
+  "author": {
+    "username": "aidiveyt",
+    "profileUrl": "https://www.reddit.com/user/aidiveyt/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5blg4/my_local_qwen38fn_agent_is_significantly_cheaper/pgo226j/",
+  "parentPost": {
+    "id": "t3_1x5blg4",
+    "title": "My local Qwen3.8FN agent is significantly cheaper than cloud",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5blg4/my_local_qwen38fn_agent_is_significantly_cheaper/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T11:19:53.779Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 17
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgn3nfm",
+  "postId": "1x5cdht",
+  "commentId": "pgn3nfm",
+  "parentId": "t1_pgmusgl",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "So I can understand an organization not wanting their data being sent to really anyone. That part seems entirely reasonable, but I question OAI and Anthropic unless they have some sort of zero retention policy/agreement in place (which is not default with those two).\nIn general this is the kind of thing that happens when non-technical people are allowed to make load bearing technical decisions without outside critical feedback from people with technical experience. That local version of qwen running on their own hardware costs them nothing in terms of inference costs, and by default doesn't ship anything over any network except local on the device.\nAnthropic on the other hand has near spyware level telemetry in their various products like claude code. They went full on scorched earth trying to get it removed from the internet when the source got leaked, and I suspect the main reasons are that they didn't want people to see their obvious anti-competitive/sabotaging behavior and the spyware adjacent telemetry. Those issues exist regardless of a zero retention policy in terms of LLM inference.\nI completely understand not shipping data to google though, and have personally largely de-googled my life as well. In general, these large companies that treat us as a product are not our friends and do not have our best interests in mind when they make decisions that would directly impact us as users of their various products.",
+  "textAvailable": true,
+  "author": {
+    "username": "alkimiadev",
+    "profileUrl": "https://www.reddit.com/user/alkimiadev/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5cdht/real_downsides_of_strata/pgn3nfm/",
+  "parentPost": {
+    "id": "t3_1x5cdht",
+    "title": "Real downsides of Strata?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5cdht/real_downsides_of_strata/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T06:48:09.692Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 18
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgmo7fv",
+  "postId": "1x5i6dt",
+  "commentId": "pgmo7fv",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Depends on what you want to do. I have a similar setup I use for agentic local software development. You can basically run the frontier of local llms right now in Qwen 3.8 27B (save for people with hundreds of gigabytes of VRAM, and even then I don't think they're running many instances of those models for fast agentic stuff).\nYou can set up Qwen 3.8 27B with 4 instances running concurrently with the full 252k context length across both of your GPUs. Do that first and play around with it. The ninfer engine is purpose-built for 5090s and gets fantastic performance with them. Honestly at this point don't even try to wrap your head around how all of the engines work and how to configure them. Go pay for a $20 Claude subscription and have Opus 5.5 configure it all on your system for you.\nIf you want to take your configuration a step further, you can use a fork of ninfer for the Swift version of Qwen 3.8 27B. Basically makes the model think less, and so use less tokens to achieve the same work. I've found very little if any degradation in coding performance for what I'm doing by using it.\nI use the Pi coding harness to get my work done. You can also use Open WebUI for a basic chat interface with your local models. Again, just have Claude Code help you get it all set up. IMO not worth spending a week reading doc pages for something you just want to toy around with and figure out if it's useful to you. After that, then you can start reading up on how to configure everything to be more how you like it. I just don't want you to hit the setup wall.",
+  "textAvailable": true,
+  "author": {
+    "username": "Apprehensive_Lake698",
+    "profileUrl": "https://www.reddit.com/user/Apprehensive_Lake698/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5i6dt/whats_possible_with_2x5090_64gb_ram/pgmo7fv/",
+  "parentPost": {
+    "id": "t3_1x5i6dt",
+    "title": "What’s possible with 2x5090 + 64GB RAM?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5i6dt/whats_possible_with_2x5090_64gb_ram/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T04:49:53.154Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 19
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgmnx6f",
+  "postId": "1x5i6dt",
+  "commentId": "pgmnx6f",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "I run ninfer and Qwen 3.8 27B with three agents in parallel at about 200 t/s aggregate with ~200k context each. Numbers are rounded because they are from memory. But thats one 5090, so you should be able to double that.\nUsing strata I was doing ~180 t/s with Qwen Next iq3. You should be able to beat that as well with two 5090s, but the quants aren't super smart for 128g memory imho, and I'd stick with qwen 3.8 27B.\nBut that isn't \"click and go\". I used claude to help me set it all up, and I suspect most other people did similar. As for context, most harnesses automatically compact your context when it gets too high so that agentic coding models can keep working. You will want to use claude code, or opencode, or pi or something.",
+  "textAvailable": true,
+  "author": {
+    "username": "Bagelsarenakeddonuts",
+    "profileUrl": "https://www.reddit.com/user/Bagelsarenakeddonuts/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5i6dt/whats_possible_with_2x5090_64gb_ram/pgmnx6f/",
+  "parentPost": {
+    "id": "t3_1x5i6dt",
+    "title": "What’s possible with 2x5090 + 64GB RAM?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5i6dt/whats_possible_with_2x5090_64gb_ram/",
+    "author": null
+  },
+  "publishedAt": "2026-10-14T04:47:52.017Z",
+  "editedAt": null,
+  "score": 5,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 20
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgku1na",
+  "postId": "1x32log",
+  "commentId": "pgku1na",
+  "parentId": "t1_pgk0v67",
+  "subreddit": "programming",
+  "title": null,
+  "text": "That’s why we only use the basic claude team plan. We don’t agentic code, except for tests and migrations. Everything else is prompt based, and we only try to prompt 50 lines or so at a time\nIt’s pretty darn efficient for a small team",
+  "textAvailable": true,
+  "author": {
+    "username": "im_a_goat_factory",
+    "profileUrl": "https://www.reddit.com/user/im_a_goat_factory/"
+  },
+  "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/pgku1na/",
+  "parentPost": {
+    "id": "t3_1x32log",
+    "title": "Software developers are not okay | Bjarnason",
+    "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T22:42:28.814Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/programming"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 21
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgka6qd",
+  "postId": "1x4u6vi",
+  "commentId": "pgka6qd",
+  "parentId": "t1_pght5hc",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "My setup is ChatGPT on the go, Claude code when im impatient, Qwen 3.8 Flash Next + OpenCode for everything else. And comfyui + Qwen Image 2.1 & Minimax M3 when I need image and video",
+  "textAvailable": true,
+  "author": {
+    "username": "WyattTheSkid",
+    "profileUrl": "https://www.reddit.com/user/WyattTheSkid/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/pgka6qd/",
+  "parentPost": {
+    "id": "t3_1x4u6vi",
+    "title": "It's been too quiet on the other side of the Pacific",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T21:08:34.042Z",
+  "editedAt": null,
+  "score": 3,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 22
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgk232k",
+  "postId": "1x4zkwi",
+  "commentId": "pgk232k",
+  "parentId": "t1_pgk0zu1",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Fair enough. I’ve tried opencode, DSH, pi, empryo, Claude-code, codex, etc. they are all doing something vaguely similar. Whatever works best for you!",
+  "textAvailable": true,
+  "author": {
+    "username": "Distinct-Pie2389",
+    "profileUrl": "https://www.reddit.com/user/Distinct-Pie2389/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4zkwi/ohmypocket_mobile_harness_ios_android/pgk232k/",
+  "parentPost": {
+    "id": "t3_1x4zkwi",
+    "title": "Oh-My-Pocket mobile harness (iOS + Android)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4zkwi/ohmypocket_mobile_harness_ios_android/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T20:34:35.204Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 23
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgjn2tr",
+  "postId": "1x4yoqm",
+  "commentId": "pgjn2tr",
+  "parentId": "t1_pgj9der",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "for me it's agentic coding plus mcp. the model writes a small python script, cron runs it, and every step that needs judgement is one model call instead of a long if/else tree on a canvas.\nand I'm not alone with that, someone let claude code rebuild an n8n workflow and it got about 90% of it working. n8n is still fine for simple glue, but I wouldn't start a new setup on it today.\nlow-code and no-code tools are for me 2024ish. Does anybody use make or zapier or autohive still? I do not think it is worth it, because with claude code you own the code. source code and data posession are the most valuable assets in my opinion. So why silo your work on servers you dont control and need to pay on demand and adapt to their changes? The entire business case of these plattforms is not attractive to me and does not align with my requirements. I know n8n self hosted is probably your approach, but still neither the ui nor the ux und not the source code control I want.\nOne more thing: If you need performance n8n is just too slow. can you compile your n8n flow in c? no, but your python source code and then it runs 10x-1000x times faster, because python is actually really slow in execution. Or just let it code in rust. this flexibility is lacking in n8n as well.\nThats why I recommended qwen code, it is the local version of claude code if you connect it with your local models",
+  "textAvailable": true,
+  "author": {
+    "username": "year2066ai",
+    "profileUrl": "https://www.reddit.com/user/year2066ai/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company/pgjn2tr/",
+  "parentPost": {
+    "id": "t3_1x4yoqm",
+    "title": "4x 6000 Pro for the company",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T19:33:48.477Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 24
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pghj6ct",
+  "postId": "1x4ttde",
+  "commentId": "pghj6ct",
+  "parentId": "t1_pgh2csx",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Are you serious right now? This is Opus 5.5 response. My prompt was literally 'whats the fastest receipe for GLM 5.3 flash for dual sparks' This repo was updated 2 weeks ago. You could even use claude code to install it for you. 12k and you cant even use what you have at your disposal...Jesus:\nThe fastest documented 2× DGX Spark setup right now is knapcio's stack ported to TP2, now the default in tonyd2wild's repo (GLM-5.3-Flash-NVFP4-DFlash2-2x-DGX-Spark). It uses NVFP4 weights with the DFlash2 drafter in vLLM at 262K context.\nSpeed vs. the previous TP2 recipe\nSingle-stream code: 68.9 tok/s against 44.7\nTool calls: 47.7 → 100.3 tok/s\nConcurrency: C1 to C6 aggregate (peak) +18% to +61%; 114K-token decode 19.1 → 40.7 tok/s\nLoad time: weights load in 44 s (knapcio's fast loader); the previous recipe took about 11 minutes\nIn production: one deployer reported median decode +106% on the same bench, same hardware, with the biggest gains on prose.\nHow it's set up\nUse start_tp2.sh, which is a 4-line change to his start.sh, plus one of the env files, env.tp2-low or env.tp2-high. Follow the runbook in the repo.\nThe two lanes serve glm-5.3-flash at 262K context and run identical code; only the server's default reasoning_effort differs, and a request can override it. Pick the low lane for raw speed.\nTradeoffs\nKV is capped small: the KV pool is 372,773 tokens; 7 GiB was tried and ran out of GPU memory on a 110K prompt.\nPrefill is roughly the same as before, sometimes slower, because knapcio's prefill pieces are TP4-only.\nAlternatives if you need more context than speed\nMiaAI-Lab's EXL3 recipe is one command, with 850k tokens by default.\nEntrpi's EXL3 installer quotes 33-74 tok/s c1, 1.3M+ context, vision.\nThese are community benchmarks. Speed depends heavily on how predictable the output is, so expect lower numbers on open-ended prose than on code or tool calls.",
+  "textAvailable": true,
+  "author": {
+    "username": "-Crash_Override-",
+    "profileUrl": "https://www.reddit.com/user/-Crash_Override-/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ttde/got_2x_dgx_sparks_excited_and_confused/pghj6ct/",
+  "parentPost": {
+    "id": "t3_1x4ttde",
+    "title": "Got 2x DGX Sparks. Excited and confused!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ttde/got_2x_dgx_sparks_excited_and_confused/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T14:21:27.660Z",
+  "editedAt": null,
+  "score": 3,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 25
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgh4b3f",
+  "postId": "1x4g90u",
+  "commentId": "pgh4b3f",
+  "parentId": "t1_pgg1cwo",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Well there are a couple of guys contributing quite actively, in total 9 (since I'm not counting claude).\nEither way, I see your point on the one hand. On the other, I've had great results with opus 5.5, first porting rdna4 code to rdna2, then all sorts of things to v100, and quite in depth optimizing as well. Given that, I would say that flash next + a team of 27Bs, given some time, will do quite well as well.\nRegarding what you said about the toy state: if I understand correctly, you have a couple. Willing to part with one (for a fair price ofc)? I promise to share/open source what I create for it, most likely at least an optimized strata and vllm build/adapter",
+  "textAvailable": true,
+  "author": {
+    "username": "Mil0Mammon",
+    "profileUrl": "https://www.reddit.com/user/Mil0Mammon/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4g90u/intel_crescent_island_gpu_gets_dseries_name/pgh4b3f/",
+  "parentPost": {
+    "id": "t3_1x4g90u",
+    "title": "Intel \"Crescent Island\" GPU Gets D-Series Name, Supports Up to 480 GB of LPDDR5X",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4g90u/intel_crescent_island_gpu_gets_dseries_name/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T13:12:18.311Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 26
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pggvcxe",
+  "postId": "1x4u6vi",
+  "commentId": "pggvcxe",
+  "parentId": "t1_pggszx7",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Didn't Linus just say he's been trying and enjoying using Claude as an assistant? If he thinks the current code is good enough for him it's definitely good enough for the rest of us",
+  "textAvailable": true,
+  "author": {
+    "username": "AstraBed",
+    "profileUrl": "https://www.reddit.com/user/AstraBed/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/pggvcxe/",
+  "parentPost": {
+    "id": "t3_1x4u6vi",
+    "title": "It's been too quiet on the other side of the Pacific",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T12:26:28.099Z",
+  "editedAt": null,
+  "score": 10,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 27
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pggqx0l",
+  "postId": "1x4ttde",
+  "commentId": "pggqx0l",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "I’m using the MiaAI Lab Tensorfold implementation.\nJust get Claude or codex to set it up for you. Or any of the numerous open weight frontier models with opencode.\nTook Claude code + Opus 5.5 like 30 minutes outside of downloading the weights to get it going.",
+  "textAvailable": true,
+  "author": {
+    "username": "the-tactical-donut",
+    "profileUrl": "https://www.reddit.com/user/the-tactical-donut/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ttde/got_2x_dgx_sparks_excited_and_confused/pggqx0l/",
+  "parentPost": {
+    "id": "t3_1x4ttde",
+    "title": "Got 2x DGX Sparks. Excited and confused!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ttde/got_2x_dgx_sparks_excited_and_confused/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T12:01:39.611Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 28
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pggo53b",
+  "postId": "1ws4ced",
+  "commentId": "pggo53b",
+  "parentId": "t1_pckgfmf",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Can you share or dm me how you do this? Do you have a specific skill, do you have claude code do this autonomously? What is your workflow exactly?",
+  "textAvailable": true,
+  "author": {
+    "username": "ps18pmcom",
+    "profileUrl": "https://www.reddit.com/user/ps18pmcom/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws4ced/anyone_customizing_and_optimizing_llamacpp_per/pggo53b/",
+  "parentPost": {
+    "id": "t3_1ws4ced",
+    "title": "Anyone customizing and Optimizing llama.cpp per model?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws4ced/anyone_customizing_and_optimizing_llamacpp_per/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T11:45:14.195Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 29
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pggmw9a",
+  "postId": "1x32log",
+  "commentId": "pggmw9a",
+  "parentId": "t1_pggiblv",
+  "subreddit": "programming",
+  "title": null,
+  "text": "Let's put this into perspective. Your iPhone has a big enough battery to power 72 Blackwell GPUs for 0.45 seconds. You're not going to be getting Claude Code to run locally on your phone anytime soon.\nAnd the robot assistant, that's not going to happen either. Robots need a real time processing and as far as anyone knows, no one has actually created anything remotely close to an autonomous robot that works as you say, it is all sleight of hand.",
+  "textAvailable": true,
+  "author": {
+    "username": "CherryLongjump1989",
+    "profileUrl": "https://www.reddit.com/user/CherryLongjump1989/"
+  },
+  "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/pggmw9a/",
+  "parentPost": {
+    "id": "t3_1x32log",
+    "title": "Software developers are not okay | Bjarnason",
+    "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/",
+    "author": null
+  },
+  "publishedAt": "2026-10-13T11:37:38.287Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/programming"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 30
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgdnlu4",
+  "postId": "1x4h9k4",
+  "commentId": "pgdnlu4",
+  "parentId": "t1_pgdlaiv",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Dual 80GB, 160 total. I've been suing using claude code for most of this setup. Seeing that missing 100tok/s really hurts lol",
+  "textAvailable": true,
+  "author": {
+    "username": "vitamins1000",
+    "profileUrl": "https://www.reddit.com/user/vitamins1000/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4h9k4/how_to_get_more_performance_from_dual_a100_80gb/pgdnlu4/",
+  "parentPost": {
+    "id": "t3_1x4h9k4",
+    "title": "How to get more performance from dual A100 80GB?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4h9k4/how_to_get_more_performance_from_dual_a100_80gb/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T23:45:20.344Z",
+  "editedAt": null,
+  "score": 3,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 31
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgdlf99",
+  "postId": "1x4cm73",
+  "commentId": "pgdlf99",
+  "parentId": "t1_pgdjq7h",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Who knows why the small models are good at using the Orange Pi? I guess that is interesting or that Kimi couldn't even set it up at all versus the smaller models on the Pi. Anthropic doesn't tell you if they ran all these models in the same quant or what kind of harness but I assume claude code over all of them. The point is they're pretty skilled at getting something running on various hardware. Also why are you talking about my claim being accurate or not when it is listed in plain English what they are showing on the table?",
+  "textAvailable": true,
+  "author": {
+    "username": "ColoredTriangles",
+    "profileUrl": "https://www.reddit.com/user/ColoredTriangles/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for/pgdlf99/",
+  "parentPost": {
+    "id": "t3_1x4cm73",
+    "title": "Once again anthropic doing free marketing for open weight models",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T23:33:56.221Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 32
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pgd36wd",
+  "postId": "1x32vhx",
+  "commentId": "pgd36wd",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "This is probably going to come off as tinfoil-brained and I'm not saying DeepSeek v4.1 is doing this, but I do think people are underestimating or completely overlooking the potential for LLMs to be trained for hidden malicious behavior. We download models all the time and assume they're only taught the things we want to use them for, but just as easily as an LLM can be trained to perform desired actions, it can be trained to also perform undesired actions and not even be aware that it's doing these harmful things.\nWe know for example that it's possible to transparently fingerprint text by embedding hidden patterns. Claude does this as a \"feature\". But if that's the case then hypothetically what's to stop an LLM from being trained to embed hidden information in its web search queries or in the code it outputs? The information transmitted could be very minimal, a simple 1 or 0, a yes or no, communicating \"is the user a person of interest\" for example, based on what data has been read into the LLM's context. Or it could be more verbose than that but use long-term patterns that are individually undetectable. The risk, if it exists, would be further amplified by using a model's preferred desktop application, even if that interface is completely open-source.\nI'm hardly an opsec expert but an example how that could work is seen in Hermes, which keeps a database of knowledge on the user which is preserved across sessions. This is done in order to better serve and anticipate the user's work patterns so the user doesn't need to repeat himself constantly. As designed, this is purely benign and very helpful, but maybe that database grows to contain things like, \"the user frequently makes request in the context of needing to preserve national security and therefore requires [bla bla bla]\" for example. A maliciously-trained LLM, being run locally explicitly for the purpose of prevent information from being leaked to commercial/state providers, could be taught that if things like this are detected in context then it should send search queries with a certain hidden marker. The search provider could then identify individuals of interest very easily.\nI don't have the equipment, expertise, or motivation to prove this is possible in the real world, but I understand the way LLMs work and training one to behave the way I've described would be extremely simple.\nI guess I'm just saying, similar to OP's example (hyperbolic as it may or may not be): we should not assume \"local\" means \"secure\".",
+  "textAvailable": true,
+  "author": {
+    "username": "unjustifiably_angry",
+    "profileUrl": "https://www.reddit.com/user/unjustifiably_angry/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api/pgd36wd/",
+  "parentPost": {
+    "id": "t3_1x32vhx",
+    "title": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T22:00:30.534Z",
+  "editedAt": null,
+  "score": 3,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 33
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfi38cl",
+  "postId": "1x3th4p",
+  "commentId": "pfi38cl",
+  "parentId": "t1_pfi0hbx",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Yes, I've used Claude Code for months, I love it. Then I tried the other ones. The difference between \"best\" and \"best of the rest\" is not much. Most of them are certainly good enough.\nLook at OpenChamber for example. It's open source, and the UI is much more productive than the Claude Code UI. Claude Code still has some niceties that OpenChamber doesn't have, but OpenChamber has nearly caught up while starting a long time after Claude Code started.\nClaude Code is nice, perhaps the best, but it's no moat, it's simply a reference implementation.",
+  "textAvailable": true,
+  "author": {
+    "username": "midnitewarrior",
+    "profileUrl": "https://www.reddit.com/user/midnitewarrior/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3th4p/decision_30_open_multimodal_decision_models_from/pfi38cl/",
+  "parentPost": {
+    "id": "t3_1x3th4p",
+    "title": "Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3th4p/decision_30_open_multimodal_decision_models_from/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T18:48:14.502Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 34
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfhniky",
+  "postId": "1x3wjzf",
+  "commentId": "pfhniky",
+  "parentId": "t1_pfghrgd",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Thanks for the numbers.\nWhat you left out is that depth decay hits that setup badly(unless you fixed it?), I saw the same Level1Techs dual R9700 guide and he tells us plainly how slow generate gets beyond 20k of context https://forum.level1techs.com/t/ultimate-2x-r9700-guide-for-qwen-3-8-27b-mxfp4-200t-s-c-1-500t-s-at-c-8/257789\nSo indeed it is possible to load 900k ctx total which is about 112k per user at 8 users (about half of what fits on 6x rtx3090). I think 4 users at 224k is much more useful, but dropping below 25 tok/s after 20k? If you just point Claude Code at it and say hello you will go beyond it.\nBut I have good news for you. This looks like a bug that is likely possible to be fixed. So get a good llm and let it work on it overnight and maybe by the morning you can make a post here saying \"879tok/s for full context on dual R9700\" and that would be pretty cool.\nUnfortunately as of now, the usefulness of that particular software+hardware is limited.\nSo I'm not planning to be selling 6 of my RTX3090s. I could get about $7800 each or about 3 AMD R9700's worth.\nIf I could sell them and buy 4 of those AMD cards I still wouldn't be sure. R9700 has lower memory bandwidth. It has more compute and more VRAM and PCIe v5 of course. Is it worth double an rtx3090? Not to me at this time.",
+  "textAvailable": true,
+  "author": {
+    "username": "flynth92",
+    "profileUrl": "https://www.reddit.com/user/flynth92/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3wjzf/qwen38flashnext_on_six_3090s_with_vllm_7_users_at/pfhniky/",
+  "parentPost": {
+    "id": "t3_1x3wjzf",
+    "title": "Qwen3.8-Flash-Next on six 3090s with vLLM: 7 users at 262k, 6.5k t/s prefill, 57 t/s decode solo / 206 t/s aggregate with all 7 generating. Fixes for the upstream included.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3wjzf/qwen38flashnext_on_six_3090s_with_vllm_7_users_at/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T17:44:31.455Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 35
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfh90lh",
+  "postId": "1r1kfg7",
+  "commentId": "pfh90lh",
+  "parentId": "t1_pfh7r30",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "I'm still trying stuff with open code, 1 sequential workflow with different models, but I'm not sure if it worth it instead of simply paying claude. Anyways, thanks!",
+  "textAvailable": true,
+  "author": {
+    "username": "ashalashaska",
+    "profileUrl": "https://www.reddit.com/user/ashalashaska/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1kfg7/looking_for_suggestions_for_a_local_llm_to_use/pfh90lh/",
+  "parentPost": {
+    "id": "t3_1r1kfg7",
+    "title": "Looking for suggestions for a local LLM to use with open code or claude code.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1kfg7/looking_for_suggestions_for_a_local_llm_to_use/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T16:45:49.786Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 36
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfgqjw3",
+  "postId": "1x3ybdl",
+  "commentId": "pfgqjw3",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "I tried opencode multiple times. It's default system prompt makes a hard assumption that the root folder where it's open is a git repo, which drives me crazy as i have to explain it multiple times that it's not the case. I usually create a project folder and keep multiple repos checked out inside it. Never had issues making claude code, omp or codex understand this",
+  "textAvailable": true,
+  "author": {
+    "username": "projectEscape",
+    "profileUrl": "https://www.reddit.com/user/projectEscape/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ybdl/opencode_harness_suck_or_is_it_just_me/pfgqjw3/",
+  "parentPost": {
+    "id": "t3_1x3ybdl",
+    "title": "Opencode harness suck or is it just me?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ybdl/opencode_harness_suck_or_is_it_just_me/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T15:30:08.077Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 37
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pffqbzy",
+  "postId": "1x3ker0",
+  "commentId": "pffqbzy",
+  "parentId": "t1_pfc31dq",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Also super easy to hook up to pi.dev. This is finally a useable coding agent solution for me that has strong enough reasoning to be useful. Obviously something like Code Claude/Opus 5.5 is still a bit better, but the gap is shrinking! Im running glm 5.3-flash at 512k context, which is just massive. :)",
+  "textAvailable": true,
+  "author": {
+    "username": "satireplusplus",
+    "profileUrl": "https://www.reddit.com/user/satireplusplus/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/pffqbzy/",
+  "parentPost": {
+    "id": "t3_1x3ker0",
+    "title": "I ran Qwen 3.8 Flash-Next on my AMD 7900 XTX at 500k context. All local and what a shift it has been.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T12:44:53.352Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 38
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfet0n0",
+  "postId": "1wtg0vd",
+  "commentId": "pfet0n0",
+  "parentId": "t1_pf7sn1z",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "You don't need to run it locally to test it. Any hosted API that serves GLM gives you a key in a few minutes and bills per token, so a real test costs a couple of dollars at most, not a subscription.\nFor the price comparison, the useful number is your own usage, not a benchmark. Your Claude Pro weekly limit is effectively a fixed token budget, so pull your actual weekly token counts and price that same volume at per-token rates. Two things matter for a Claude Code workload: cached input and output. Agent loops resend the same context over and over, and providers bill cached input at a much lower rate than fresh input, so most of your weekly usage is likely cheap cache reads. That usually makes the per-token equivalent smaller than people expect before they look at their own numbers.\nI run a hosted inference API for open models, so I see both sides of that comparison. What does your typical week look like: long sessions re-reading the same files, or lots of fresh one-off prompts? That split decides whether cache or output dominates your bill.",
+  "textAvailable": true,
+  "author": {
+    "username": "xapep",
+    "profileUrl": "https://www.reddit.com/user/xapep/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/pfet0n0/",
+  "parentPost": {
+    "id": "t3_1wtg0vd",
+    "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T08:52:31.170Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 39
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfdnm31",
+  "postId": "1x32log",
+  "commentId": "pfdnm31",
+  "parentId": "t1_pfccgyd",
+  "subreddit": "programming",
+  "title": null,
+  "text": "People can tell that the code output is low quality because they know what high quality code looks like.\nLike many people here, I work with some extremely intelligent people who have decades of experience producing \"quality code\" who now just spot check claude output. They aren't just being lazy or stupid, if you have any idea what you're doing, it's not hard to prompt and iterate to a decent shape in a fraction of the time you'd spend writing it yourself.\nArguments that are valid:- I don't like the work I'm now doing because I type less code myself- Everybody is so productive now, I feel extreme pressure to work longer and harder than before to keep up- I fear for my job, I won't be able to make enough money to retire before I get laid off\nBut saying it only produces crap or that it doesn't make you more productive is just cope and denial for people who can't accept what is happening to this industry.",
+  "textAvailable": true,
+  "author": {
+    "username": "kitschy",
+    "profileUrl": "https://www.reddit.com/user/kitschy/"
+  },
+  "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/pfdnm31/",
+  "parentPost": {
+    "id": "t3_1x32log",
+    "title": "Software developers are not okay | Bjarnason",
+    "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T03:36:07.610Z",
+  "editedAt": null,
+  "score": 0,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/programming"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 40
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfd5nbp",
+  "postId": "1x3n8ex",
+  "commentId": "pfd5nbp",
+  "parentId": "t1_pfcrr1h",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "What makes pi better than opencode for you? The agents stopping randomly is usually too lobotomized quants or broken jinja templates. Used to be pretty bad but haven't seen it happen for months and I have couple B tokens through the system.\nI'm using mostly openchamber and not sure if is that or opencode, but recently have noticed the sessions sending messages to each other directly, kind of like Claude Code does. By default it only happens with parent and their created sessions, but they definitely can see all of the sessions and interact with them.",
+  "textAvailable": true,
+  "author": {
+    "username": "butterycornonacob",
+    "profileUrl": "https://www.reddit.com/user/butterycornonacob/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3n8ex/opencode_2026_is_out_if_you_need_to_constantly/pfd5nbp/",
+  "parentPost": {
+    "id": "t3_1x3n8ex",
+    "title": "OpenCode 2.0.26 is out, if you need to constantly prompt \"Continue\" it's not just your bot AFAIK",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3n8ex/opencode_2026_is_out_if_you_need_to_constantly/",
+    "author": null
+  },
+  "publishedAt": "2026-10-12T01:50:12.482Z",
+  "editedAt": null,
+  "score": 3,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 41
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfcdcas",
+  "postId": "1x32log",
+  "commentId": "pfcdcas",
+  "parentId": "t1_pfc84q7",
+  "subreddit": "programming",
+  "title": null,
+  "text": "Strongly disagree. AI saves a lot of time. Not for all tasks but for the ones that it's good at, it's a 1000x speedup. For example, one of the codebases I maintain is undergoing widespread migrations. Each one would be multiple weeks of menial repetitive tasks but Claude handled it in under an hour including an edge case that I hadn't considered.\nI wouldn't rely on LLMs to architect a codebase (nor would I want that, that's what makes dev work interesting to me) but large scale repetitive tasks that are a little too complex for code mods are right up its alley.",
+  "textAvailable": true,
+  "author": {
+    "username": "theLorknessMonster",
+    "profileUrl": "https://www.reddit.com/user/theLorknessMonster/"
+  },
+  "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/pfcdcas/",
+  "parentPost": {
+    "id": "t3_1x32log",
+    "title": "Software developers are not okay | Bjarnason",
+    "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T23:15:33.959Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/programming"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 42
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfcak9o",
+  "postId": "1x3ker0",
+  "commentId": "pfcak9o",
+  "parentId": "t1_pfc8eol",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "I'm working on the language/prose. I've invested a lot of time in trying to get my articles to be useful, report my findings in an enjoyable way, and with a lot of back and forth as it builds each section. The problem is I want to report things and try to help the community but I have to balance that with getting actual work done on top of my day job. I have been just posting things to my github and not reddit because I don't care for the toxicity and \"omg this is ai\" when all I'm trying to do is help others with my findings. It's an exciting time and everyone self-reporting results can be so beneficial.\nRight now I can't add anything further to my stack simply because it's just too expensive. I rent some pods for extra processing and to keep everything out of corporate data scoops. I just added an old macbook to try as my writer with mixed results and I use a laptop with a mobile radeon gpu. So my approach is using what I have and improving on it as much as I can. Then posting about it in the hopes it helps someone else. Beyond that I can't control narratives about me or my work, toxic internet culture, or whatever else you want to throw in this list. Even the comment about \"this sounds like claude\" is a huge win to me. I started this journey with claude code and now I'm fully off of it with a purely localized setup and some occasional cloud computer power that connects over ssh and destroys the entire node when I'm done for the day.",
+  "textAvailable": true,
+  "author": {
+    "username": "human_in_the_looop",
+    "profileUrl": "https://www.reddit.com/user/human_in_the_looop/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/pfcak9o/",
+  "parentPost": {
+    "id": "t3_1x3ker0",
+    "title": "I ran Qwen 3.8 Flash-Next on my AMD 7900 XTX at 500k context. All local and what a shift it has been.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T23:01:03.598Z",
+  "editedAt": null,
+  "score": 3,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 43
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pfc6cvf",
+  "postId": "1x32log",
+  "commentId": "pfc6cvf",
+  "parentId": "t1_pfbtac5",
+  "subreddit": "programming",
+  "title": null,
+  "text": "The one-man band phenomenon is what I was getting at.\nThe entire cohort of talented software developers, if they switch to working as one-man software teams with AI filling in the gaps, will cover 100x the ground than the pre-AI software industry could. This will mean tools and products will be made that haven't been made before. It'll also mean the potential audience for them will be proportionately smaller.\nBefore AI, software buyers (or commissioners of software from consultancies, etc.) had a choice \"buy this thing that isn't perfect, because we can't afford the thing we want, or do without\". This was the whole SaaS business model for decades \"we're close enough, what are you going to do, build your own? LOL\".\nWith AI, businesses will find it much easier to build the specific tools they want and shun the software industry entirely. But those tools will be ephemeral, here today gone tomorrow. The maintainability won't be an issue, if they need something else next week, they'll build something else next week. Yes, they'll still employ a handful of tech qualified people to oversee it, but would you want to work for such a place? Compared to the tech-giants we've seen grow over the past twenty years, this new world will not have anywhere near the same degree of status (unless the business in question is inherently high-status).\nBut as to your specific points:\nThe subset of interesting tasks that require significant human oversight is diminishing rapidly. AI agents do still lack what can only be described as \"creativity\". But I'm wary of relying on creativity as a moat because in my experience 99.9% of software need is not in the slightest bit novel. This lack of creativity therefore will not stop the software industry being turned on it's head. And the small subset of software that is novel, will have a limited shelf-life before everyone uses AI to copy the idea.\nYou do still need quality control, this is true. AI doesn't remove that obligation, although AI can help fulfil it, ironically. AI code reviews have found more lurking danger (data corruption risks, etc.) in AI code than human reviews have. It does raise the question \"why didn't the first AI spot it?\", I don't know, AI seems weirdly humanlike in that sense, even the best human developer can make howlers that they just don't see until another developer points it out, then it's obvious.\nIn my experience it's almost the exact opposite of this (and therefore the last remaining blocker that means we haven't got to the \"With AI\" stage just yet, we're still on the road toward it). AI on a day-one greenfield project is very difficult to get started, there's just too much blank space that it's willing to fill-in with assumptions and generalisations, this is where most \"slop\" comes from, filling a vacuum. AI on a mature codebase however, leans on established patterns, standards, tests, linting tools etc. and goes-with-the-flow to a large extent. AI on top of AI can be a problem without human guidance to stop painting itself in to a corner, or creating needless verbose repetition, but it's becoming less of a problem over time. Claude Opus 5.5, for instance, seems to take DRY principles quite seriously, you can see it in the thinking traces \"I've been asked to add X to Y, but I see X already exists in Z, let's see if I can reuse that...\" considerably more so than models which were state-of-the-art six months ago.\nThis is mostly an economics question I think. From what I understand of AI financing, it's completely unprecedented and about ten-times more complicated than even the most complex explainer in tech media. Even bad-faith representations by the likes of Ed Zitron make it sound much simpler than it actually is. But either way, I wouldn't bank on this making the technology go away. The enormous figures \"Anthropic has $500bn of spending commitments over the next three years\" are not the cost required to build the models, that cost is Anthropic's bet at world domination, literally trying to scale to serve the entire world's AI needs and may very well fall flat on its face as a consequence. But if they do fail, all that means is the second generation of LLM-based AI companies will have more modest aims and the whole process will start again. Anthropic can't afford to hike their prices either, as that will guarantee their revenue falls short of their commitments. Like anything else, there's an equilibrium price that balances supply and demand; more than one in fact as different models have different costs.\nYes, I expect it will open new subfields. These are difficult to anticipate. From the perspective of us non-AI specialists however, the risk is that these new subfields will be dominated by AI specialists, e.g. Anthropic or one of Anthropic's successors using as-yet-unreleased models that the rest of us can't use yet. The potential for the AI firms to monopolise whole other industries is quite a massive risk, you'd hope competition regulators would do something about it though.\nIn terms of the inference costs, whether it's good value-for-money or not depends on how valuable the end goal to which it is put. But even OpenAI/Anthropic's stunts, even the ones that costs tens of thousands in raw token costs, are still cheaper and faster than the human equivalent by all observable measures. That doesn't mean that all AI spend is good spend, of course, it's very easy to waste tokens doing absolutely nothing. Businesses will still need budgets and cost controls etc.",
+  "textAvailable": true,
+  "author": {
+    "username": "hu6Bi5To",
+    "profileUrl": "https://www.reddit.com/user/hu6Bi5To/"
+  },
+  "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/pfc6cvf/",
+  "parentPost": {
+    "id": "t3_1x32log",
+    "title": "Software developers are not okay | Bjarnason",
+    "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T22:39:06.045Z",
+  "editedAt": null,
+  "score": 14,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/programming"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 44
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf9v2cv",
+  "postId": "1x37q7b",
+  "commentId": "pf9v2cv",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Awesome work. I had Claude and ChatGPT have a go at similar optimisations the other week but yours blew mine out of the water. The things I tried was n-gram reuse, tuning DFlash, some kernel tuning and what I called \"card shaped quant\", that is quantising such that the weights fit the card's quirks. I ran a head-to-head test of your version against mine (on the exact same weights, yours) and your megakernel approach is slightly better.\nSo I think for now one approach to improve your engine is to fiddle with the weights themselves a little bit -- that gave me about 15% boost using stock kernels. I tried bringing my n-gram reuse approach to your engine and while it massively increased code edit tasks (decode boost well over 100%) it hit prose, coding and thinking.\nBesides fiddling with the quants, I found that you can offload the mmproj weights to regular RAM and pull them JIT for image encode. For single images it's barely a hit on processing time.\nComparing to what the 3090 could theoretically achieve there is still some room to grow:\nPath\nCurrent, RTX 3090\nIdeal hardware ceiling, RTX 3090\nRealised efficiency\nPrompt processing, short context\n1,595 tok/s\n~2,915 tok/s\n~55%\nDecode, no drafting\n42.9 tok/s\n~58 tok/s\n~74%\nHave you considered the same megakernel approach with other models like Qwen 3.6 35B-A3B or Nemotron Lightning 30B-A3B?",
+  "textAvailable": true,
+  "author": {
+    "username": "Taenk",
+    "profileUrl": "https://www.reddit.com/user/Taenk/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090/pf9v2cv/",
+  "parentPost": {
+    "id": "t3_1x37q7b",
+    "title": "UPDATE: Qwen 3.8 27B 140 tok/s on single RTX 3090 Megakernel: KL divergence 0.0009 vs llama.cpp",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T16:47:52.500Z",
+  "editedAt": null,
+  "score": 3,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 45
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf9nrpx",
+  "postId": "1x32log",
+  "commentId": "pf9nrpx",
+  "parentId": "t1_pf90wzs",
+  "subreddit": "programming",
+  "title": null,
+  "text": "I feel that way about the little toy iOS game I’m having Claude completely vibecode for me. It’s great because I don’t know swift in the slightest. I haven’t even looked at the project directory to see what’s going on.\nBut in my actual job I’m using it and monitoring every line of code it writes and it makes things difficult because often I have to unwind some bad decisions it makes. It’s great at getting things working but sometimes it does that by creating weird globals or tying two things together instead of using something like dependency injection like we’d normally do to keep technical debt low.\nSo my worry is that if I don’t monitor what it’s doing it will eventually write the app into some place where it’s impossible for a human to work on because it’s so overly and needlessly complex. It’s turning us from the people who knew how things work to the people who know a guy who knows how it works. Maybe that’s fine because that guy is good enough but maybe it’s not. I truly don’t know.\nBut I also don’t really like being the guy who doesn’t know any more.",
+  "textAvailable": true,
+  "author": {
+    "username": "bentreflection",
+    "profileUrl": "https://www.reddit.com/user/bentreflection/"
+  },
+  "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/pf9nrpx/",
+  "parentPost": {
+    "id": "t3_1x32log",
+    "title": "Software developers are not okay | Bjarnason",
+    "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T16:17:54.312Z",
+  "editedAt": null,
+  "score": 0,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/programming"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 46
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf9cm4m",
+  "postId": "1x32log",
+  "commentId": "pf9cm4m",
+  "parentId": null,
+  "subreddit": "programming",
+  "title": null,
+  "text": "I know i'm not okay as a middle aged software dev watching his friends get laid off left and right and watching their struggles in Discord. It's terrifying and I know my time is coming too in this career and there is just not many prospects now.\nMy favorite part are the vibe coding assholes who tell me \"what, just do what you love, you are more productive!\" Or telling me to start my own freelance company that will be one of how many thousands at this point all churning out claude code solutions copying off of each other.\nedit: how the fuck do i start a food truck, maybe i'll ask chatgpt\nedit 2: my fear is for my family, i really work hard for them and provide for them and every day I hear vibe coders and ceos explain to me how all of this is somehow good for me",
+  "textAvailable": true,
+  "author": {
+    "username": "Rivvin",
+    "profileUrl": "https://www.reddit.com/user/Rivvin/"
+  },
+  "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/pf9cm4m/",
+  "parentPost": {
+    "id": "t3_1x32log",
+    "title": "Software developers are not okay | Bjarnason",
+    "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T15:30:41.538Z",
+  "editedAt": null,
+  "score": 85,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/programming"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 47
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf95und",
+  "postId": "1x32log",
+  "commentId": "pf95und",
+  "parentId": null,
+  "subreddit": "programming",
+  "title": null,
+  "text": "I’m loving it. I’m my own boss, I have a few clients and I do everything from design to deploy. I have good engineering processes and Claude opus 5.5 is amazing. Over employed but still have more free time than ever. Stop caring about writing code, start getting stoked on solving problems",
+  "textAvailable": true,
+  "author": {
+    "username": "Necessary-Shame-2732",
+    "profileUrl": "https://www.reddit.com/user/Necessary-Shame-2732/"
+  },
+  "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/pf95und/",
+  "parentPost": {
+    "id": "t3_1x32log",
+    "title": "Software developers are not okay | Bjarnason",
+    "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T15:01:21.745Z",
+  "editedAt": null,
+  "score": -21,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/programming"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 48
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf7sn1z",
+  "postId": "1wtg0vd",
+  "commentId": "pf7sn1z",
+  "parentId": "t1_pctubsx",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "I’m actually curious about this because I use Claude code and I was wondering how can I test something like GLM 3.5… I can’t run it locally obv but I heard I need a API key from a platform that hosts these models.I usually manage to stay within the weekly limit of Claude (Pro) and I was wondering how much I’d be paying for GLM 3.5 for around the same usage.",
+  "textAvailable": true,
+  "author": {
+    "username": "SpicyOlive0",
+    "profileUrl": "https://www.reddit.com/user/SpicyOlive0/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/pf7sn1z/",
+  "parentPost": {
+    "id": "t3_1wtg0vd",
+    "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T10:23:00.760Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 49
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf7o6vu",
+  "postId": "1x33avs",
+  "commentId": "pf7o6vu",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "How much ram you have? 32gb at least. To run flash next propery I bought another ddr4 16gb module on ebay. Not that bad. Now I have 64 go running it with oh my pi using strata. Wow feels like Claude code but running local on only 16gb GPU.",
+  "textAvailable": true,
+  "author": {
+    "username": "According_Study_162",
+    "profileUrl": "https://www.reddit.com/user/According_Study_162/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x33avs/is_is_fomo_to_think_that_buying_ram_now_is_the/pf7o6vu/",
+  "parentPost": {
+    "id": "t3_1x33avs",
+    "title": "Is is FOMO to think that buying RAM now is the best thing to do?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x33avs/is_is_fomo_to_think_that_buying_ram_now_is_the/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T09:47:06.569Z",
+  "editedAt": null,
+  "score": 0,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 50
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf7kad9",
+  "postId": "1wivlo8",
+  "commentId": "pf7kad9",
+  "parentId": "t1_paf43tb",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "For real! I have idenitifed so many mistakes that claude does. Sometimes I had to stop it in between its reasoning and question it, then it says my bad, that was my assumption. Once it had assumed it's own assumption as some statement that I said and started building the code around it. When I asked, it admitted sorry it was my assumptio, not your statement.",
+  "textAvailable": true,
+  "author": {
+    "username": "white-mountain",
+    "profileUrl": "https://www.reddit.com/user/white-mountain/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wivlo8/does_anyone_use_uncensored_models_purely_for/pf7kad9/",
+  "parentPost": {
+    "id": "t3_1wivlo8",
+    "title": "Does anyone use uncensored models purely for coding?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wivlo8/does_anyone_use_uncensored_models_purely_for/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T09:14:21.793Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 51
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf6uq1y",
+  "postId": "1x2znn9",
+  "commentId": "pf6uq1y",
+  "parentId": null,
+  "subreddit": "programming",
+  "title": null,
+  "text": "I have no clue what language this is referencing but both in C++ and Rust interfaces cost nothing performance wise. Traits and generics gracefully monomorphize in Rust. CRTP and concepts also gracefully monomorphize in C++.\nThe whole point of multiple implementations is kind of moot imo. If you have multiple implementations you can merge into one, then that just means you need to merge them. If you can't merge them, then you need two different code paths. The alternative I see is a flag you pass around into your \"singular\" implementation wherein all the functions just check the flag at the start of the function. That has two problems: it's slower than dynamic polymorphism since it flushes the CPU pipeline on each conditional whereas vtables don't and, problem 2--its unreadable hell with added levels of indentation to merely check on the flag.\nInterfaces help with generalizations. For all its faults, an iterator is a generic interface that many algorithms work on. Same goes for a stream, a writer, a reader (as you admit). I've worked in embedded and interfaces allow you to define the ontology of what an EEPROM chip is with many different implementations for different chips. But you know that you'll get a write/read set of functions. Interfaces help with protocols---if my application takes some arbitrary stream transport interface, I can run it on TCP/Websockets/pipes/Unix sockets or even arcane automotive ISOTP.\nI would have also like to seen examples, arguments, an exploration of your arguments, yet I see claims with little evidence.\nI will defend the case that if you're building an interface for the sake of mocking and mocking alone, perhaps lugging that around may not be worth it. I generally lean against writing production code to support tests, but that's not beef with interfaces themselves.\nI'm guessing this is some form of JVM language since a compiler was mentioned, I had Claude research the devirtualization story there. Looks like there's this class hierarchy analysis system in Graal that can inline functions with only one implementation. The degree of compiler optimization going through this is still elusive to me. Does const propagation work? Do branch optimizations work? Why did javac not implement devirtualization (as clang does, for example)? I would have liked to see a proper exploration of this, for example, in your post.",
+  "textAvailable": true,
+  "author": {
+    "username": "siva_sokolica",
+    "profileUrl": "https://www.reddit.com/user/siva_sokolica/"
+  },
+  "url": "https://www.reddit.com/r/programming/comments/1x2znn9/i_dont_like_interfaces/pf6uq1y/",
+  "parentPost": {
+    "id": "t3_1x2znn9",
+    "title": "I don't like interfaces",
+    "url": "https://www.reddit.com/r/programming/comments/1x2znn9/i_dont_like_interfaces/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T05:46:27.047Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/programming"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 52
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf6g5nu",
+  "postId": "1wzwbs0",
+  "commentId": "pf6g5nu",
+  "parentId": "t1_pf5qmhh",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Heh, maybe I should buy a second one…\nI was reading about vLLM vs Llama.cpp, still have not grasped the difference.\nI use OpenCode currently, still learning its capabilities.\nOtherwise, I’ve only used Claude and Cursor agent (work).",
+  "textAvailable": true,
+  "author": {
+    "username": "espece-de-bon",
+    "profileUrl": "https://www.reddit.com/user/espece-de-bon/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzwbs0/gpu_upgrade_advice/pf6g5nu/",
+  "parentPost": {
+    "id": "t3_1wzwbs0",
+    "title": "GPU Upgrade advice",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzwbs0/gpu_upgrade_advice/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T04:00:28.041Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Cursor"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 53
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf5qxzs",
+  "postId": "1x212iv",
+  "commentId": "pf5qxzs",
+  "parentId": "t1_pf02qsl",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "One reference point, from a hosted model and not a local one. We tested REA with Claude Code on Sonnet 5.5 at medium effort, on four stripped binaries up to 264 KB. Sessions took about a minute each. The agent got 74 of 75 checklist facts right using only objdump, and 73 of 75 with REA.\nSo small, unobfuscated binaries are an easy problem for that class of model, and the tooling made no difference. We haven't run it with local models, or on anything large or packed.\nWrite-up: https://gittested.com/reviews/morluto-rea/",
+  "textAvailable": true,
+  "author": {
+    "username": "peeeanuts",
+    "profileUrl": "https://www.reddit.com/user/peeeanuts/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x212iv/what_does_localllama_think_of_rea/pf5qxzs/",
+  "parentPost": {
+    "id": "t3_1x212iv",
+    "title": "What does LocalLLaMA think of REA?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x212iv/what_does_localllama_think_of_rea/",
+    "author": null
+  },
+  "publishedAt": "2026-10-11T01:29:18.282Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 54
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf53b14",
+  "postId": "1x0gaqv",
+  "commentId": "pf53b14",
+  "parentId": "t1_pf4i0nx",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Having Claude direct test on Pi Harness on custom tests based on previous work I've done with Claude, basic suite of tools and pdfx for reading pdf datasheets (e.g. parsing datasheets and pulling address tables to write code that interacts with hardware for a servo and signal generation based project respectively)\nI'm still exploring the problem space, have been removing tests that saturate. It's currently comparing Q4, Q5, and Q6 against the remaining problems that didn't saturate on Q4 @ Xhigh, then I'm going to decide what to do moving forward. E.g. see if Q6 does better at medium than Q4 did.\nI want to reduce wasted time/test cycles for faster test iteration. I've found in a few cases Medium passed one of the harder tests in 228s where Xhigh timed out at my 30 minute limit.\nI'm currently feeling like I'm going to do a lot of tweaking at Q4 to find where all the levers are before I do any more inter-quant comparison, since Q5/Q6 are slower and running them to compare triples each test's duration. There seems to be an unhappy dichotomy between Xhigh being more consistent but generally way slower and Medium failing more but sometimes succeeding very quickly. Maybe the solution is adaptive adjustment of effort in agentic runs?",
+  "textAvailable": true,
+  "author": {
+    "username": "Flibidyjibit",
+    "profileUrl": "https://www.reddit.com/user/Flibidyjibit/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0gaqv/comparing_qwen3827b_finetunes_and_baselining_vs/pf53b14/",
+  "parentPost": {
+    "id": "t3_1x0gaqv",
+    "title": "Comparing Qwen3.8-27B fine-tunes and baselining vs. frontier",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0gaqv/comparing_qwen3827b_finetunes_and_baselining_vs/",
+    "author": null
+  },
+  "publishedAt": "2026-10-10T23:19:17.161Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 55
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf4vviu",
+  "postId": "1x2mw1o",
+  "commentId": "pf4vviu",
+  "parentId": "t1_pf4mz6m",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Totally agree. I use qwen 3.8 q6 for my agentic work with Claude code.",
+  "textAvailable": true,
+  "author": {
+    "username": "jayc0au",
+    "profileUrl": "https://www.reddit.com/user/jayc0au/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/pf4vviu/",
+  "parentPost": {
+    "id": "t3_1x2mw1o",
+    "title": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/",
+    "author": null
+  },
+  "publishedAt": "2026-10-10T22:39:52.349Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 56
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf3rjsh",
+  "postId": "1x2mw1o",
+  "commentId": "pf3rjsh",
+  "parentId": null,
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "Yeah I've had a similar experience. I begun with local LLMs, refusing to pay for Codex/Claude access, since I already had good enough hardware to run good models like the Qwen 3.8 27B locally. It did alright, but took a long while and made quite a lot of mistakes, and the output was similar to what I could put together given a while: ugly but somewhat functional.\nThen I tried Codex and 6.1 Sol due to the free month offer. It really is on a whole other level. Quite polished software with just a few prompts. Put in a bit more effort, and you get commercial/production level stuff without ever touching the code. Now I feel wary of letting my Hermes/Qwen touch my repos. They'd need very tightly scoped tasks to have a chance.",
+  "textAvailable": true,
+  "author": {
+    "username": "zainfear",
+    "profileUrl": "https://www.reddit.com/user/zainfear/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/pf3rjsh/",
+  "parentPost": {
+    "id": "t3_1x2mw1o",
+    "title": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/",
+    "author": null
+  },
+  "publishedAt": "2026-10-10T19:25:20.420Z",
+  "editedAt": null,
+  "score": 11,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 57
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf29514",
+  "postId": "1wyzt1d",
+  "commentId": "pf29514",
+  "parentId": "t1_pf22fif",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "I have tried Pi and Claude Code so far. Pi seems to work the best and is faster on same tasks. Havnt run OpenCode in a while. Somehow I feel the Pi setup (very minimal. very few plugins, mostly custom skills and few cherry picked compouind engineering skills, a lot of rules and instructions on the global agents.md which is a symlink of the claude setup, a custom plugin to use same memories as well) works the best for me.",
+  "textAvailable": true,
+  "author": {
+    "username": "deepu105",
+    "profileUrl": "https://www.reddit.com/user/deepu105/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyzt1d/story_time_qwen38flashnext_on_my_strix_halo/pf29514/",
+  "parentPost": {
+    "id": "t3_1wyzt1d",
+    "title": "Story time: Qwen3.8-Flash-Next on my Strix Halo laptop vs Claude Opus 5.5 on the same feature",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyzt1d/story_time_qwen38flashnext_on_my_strix_halo/",
+    "author": null
+  },
+  "publishedAt": "2026-10-10T15:25:05.551Z",
+  "editedAt": null,
+  "score": 2,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 58
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pf0gas8",
+  "postId": "1x0py31",
+  "commentId": "pf0gas8",
+  "parentId": "t1_pepgi5r",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "This is what Claude code auto mode does right. Ya sure depending on your own risk tolerance you could set it up. For example you can disable the classifier model if you need so that it will prompt more for risky stuff. The first layer is checks using regex and static rules, so they will still work for most stuff and for others you will get prompt that you can approve",
+  "textAvailable": true,
+  "author": {
+    "username": "deepu105",
+    "profileUrl": "https://www.reddit.com/user/deepu105/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0py31/auto_mode_plugin_for_the_pi_coding_agent_that/pf0gas8/",
+  "parentPost": {
+    "id": "t3_1x0py31",
+    "title": "Auto mode plugin for the Pi coding agent that uses Kev/Laya (running locally) or Jev to classify commands",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0py31/auto_mode_plugin_for_the_pi_coding_agent_that/",
+    "author": null
+  },
+  "publishedAt": "2026-10-10T08:47:28.591Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 59
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pezirhf",
+  "postId": "1x212iv",
+  "commentId": "pezirhf",
+  "parentId": "t1_pez0ki9",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "If this actually works as intended, it would surely accelerate software preservation. A lot of old software doesn't have the actual code preserved anywhere in the first place (probably lost along with floppy disk or something).\nEdit: I actually went through the official repo and through setup with Ghidra, but the repo's writing is quite depressing (100% not human written) and their official site is 100% Claude. Everything is very hard to follow.",
+  "textAvailable": true,
+  "author": {
+    "username": "NandaVegg",
+    "profileUrl": "https://www.reddit.com/user/NandaVegg/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x212iv/what_does_localllama_think_of_rea/pezirhf/",
+  "parentPost": {
+    "id": "t3_1x212iv",
+    "title": "What does LocalLLaMA think of REA?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x212iv/what_does_localllama_think_of_rea/",
+    "author": null
+  },
+  "publishedAt": "2026-10-10T04:21:28.719Z",
+  "editedAt": null,
+  "score": 14,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 60
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pey35aw",
+  "postId": "1x0n4pt",
+  "commentId": "pey35aw",
+  "parentId": "t1_peockxf",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "VPN will allow you to download claude code. Using Claude models is another story. That's why this Chinese person is using open models.",
+  "textAvailable": true,
+  "author": {
+    "username": "Ok_Warning2146",
+    "profileUrl": "https://www.reddit.com/user/Ok_Warning2146/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/pey35aw/",
+  "parentPost": {
+    "id": "t3_1x0n4pt",
+    "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
+    "author": null
+  },
+  "publishedAt": "2026-10-09T23:08:50.439Z",
+  "editedAt": null,
+  "score": 1,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 61
+},
+{
+  "rowType": "reddit_match",
+  "sourceType": "COMMENT",
+  "id": "t1_pewxfms",
+  "postId": "1x1rk4o",
+  "commentId": "pewxfms",
+  "parentId": "t1_pew7fwt",
+  "subreddit": "LocalLLaMA",
+  "title": null,
+  "text": "You can get a lot of info even without looking at the full conversation. like even knowing that professors who study xyz are using a lot of chatgpt but these other ones seem like they have given up. But beyond that there are dark patterns like the training switch reverting back to allowed after app updates. Also stuff like claude code that keeps popping up the \"how is Claude doing\". I almost hit a number once by accident, which sends your entire session history and associated files for training. I have never sent my data, and I swear sometimes it will pop up like five times in an hour like they are desperately trying to get me to accidentally hit a number.",
+  "textAvailable": true,
+  "author": {
+    "username": "___positive___",
+    "profileUrl": "https://www.reddit.com/user/___positive___/"
+  },
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rk4o/openais_math_findings_built_on_stolen_user_data/pewxfms/",
+  "parentPost": {
+    "id": "t3_1x1rk4o",
+    "title": "OpenAI's math findings built on stolen user data",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rk4o/openais_math_findings_built_on_stolen_user_data/",
+    "author": null
+  },
+  "publishedAt": "2026-10-09T19:48:51.679Z",
+  "editedAt": null,
+  "score": 4,
+  "commentsCount": null,
+  "flair": null,
+  "isNsfw": false,
+  "isSubmitter": null,
+  "matchedKeywords": [
+    "Claude Code"
+  ],
+  "matchBasis": "text",
+  "foundBy": [
+    "comments: Claude Code in r/LocalLLaMA"
+  ],
+  "isNew": true,
+  "firstSeenAt": "2026-10-16T19:21:02.503Z",
+  "scrapedAt": "2026-10-16T19:21:02.505Z",
+  "capturedSequence": 62
+}]
